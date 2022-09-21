@@ -1,0 +1,7 @@
+C:\Users\podar\source\repos\app\app\bin\Debug\app.exe.config
+C:\Users\podar\source\repos\app\app\bin\Debug\app.exe
+C:\Users\podar\source\repos\app\app\bin\Debug\app.pdb
+C:\Users\podar\source\repos\app\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\podar\source\repos\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\podar\source\repos\app\app\obj\Debug\app.exe
+C:\Users\podar\source\repos\app\app\obj\Debug\app.pdb
